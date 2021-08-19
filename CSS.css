@@ -352,11 +352,7 @@ li a:hover:not(.active){
 }
 .card:hover {
   box-shadow: 20px 20px 20px 20px rgba(0,0,0,0.2);
-<<<<<<< HEAD
   transform: scale3d(0.9);
-=======
-  transform: scale(0.9);
->>>>>>> bbaee0abd5d50f766a3c3025c8c9032152e71e9a
   background-color: rgb(255, 255, 37); 
   overflow-x: hidden;
 }
